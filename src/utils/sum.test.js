@@ -8,7 +8,7 @@ it('Suma debe ser una función',() => {
 });
 
 it('Suma debe sumar correctamente', () => {
-    expect(sum(3,4)).toBe(9);
+    expect(sum(3,4)).toBe(7);
 });
 
 
